@@ -1,0 +1,85 @@
+#appetizers ul li{
+    list-style-type: none;
+}
+h1{
+    font-family: 'Marko One', serif;
+    color: #993399;
+    font-style: normal;
+}
+#info p{
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    color: #cc6600;
+    font-size: 1em;
+    font-stretch: extra-condensed;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+dt{
+    color: #a0522d;
+    font-weight: bold;
+}
+span.price{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #D3D3D3;
+}
+span.label{
+    font-weight: bold;
+    font-style: normal;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 1.5em;
+}
+p.warning{
+    color: #FF0000;
+    font-size: 0.8em;
+}
+strong{
+    color: #ff6347;
+    font-style: italic;
+}
+li.c1{
+    list-style-type: lower-roman;
+}
+li.c2{
+    list-style-type: symbols();
+}
+li.c3{
+    text-indent: 16px;
+}
+li.c4{
+    font-size: xx-large;
+    list-style-image: url(../images/bull.PNG);
+    list-style-position: outside;
+}
+/* fin 1 */
+body{
+    background-color: #D2DC9D;
+    background-image: url(./images/bullseye.png);
+    background-repeat: repeat;
+}
+#div1{
+    text-align: center;
+    background-color: white;
+    opacity: 50%;
+    background-image: url(./images/purpledot.png);
+    background-repeat: repeat-x;
+}
+a:link{
+    color: #993399;
+}
+a:hover{
+    color: #C700F2;
+    background-color: #FFC0CB;
+}
+a:visited{
+    color: #937393;
+}
+/* fin 2 */
